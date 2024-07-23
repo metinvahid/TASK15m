@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Z/8yR9N3Q3uBcq4j2dMBywmJIqnEDYL/rtwHDSXhySk=",
+  "Source": "Task15",
+  "BasePath": "_content/Task15",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task15\\wwwroot",
+      "Source": "Task15",
+      "ContentRoot": "C:\\Users\\TUF\\OneDrive\\Desktop\\MVC\\MVCTask15\\Task15\\wwwroot\\",
+      "BasePath": "_content/Task15",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TUF\\OneDrive\\Desktop\\MVC\\MVCTask15\\Task15\\wwwroot\\assets\\css\\style.css",
+      "SourceId": "Task15",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TUF\\OneDrive\\Desktop\\MVC\\MVCTask15\\Task15\\wwwroot\\",
+      "BasePath": "_content/Task15",
+      "RelativePath": "assets/css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
+    }
+  ]
+}

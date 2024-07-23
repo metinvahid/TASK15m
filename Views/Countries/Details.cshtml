@@ -1,0 +1,25 @@
+﻿@model Country
+
+
+@{
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-12">
+
+        <dl>
+
+            <dt>Id</dt>
+            <dd>@Model.Id</dd>
+
+            <dt>Name</dt>
+            <dd>@Model.Name</dd>
+
+            <dt>Code</dt>
+            <dd>@Model.Code</dd>
+        </dl>
+        <a asp-controller="Countries" asp-action="Index">Go Back</a>
+
+    </div>
+</div>
